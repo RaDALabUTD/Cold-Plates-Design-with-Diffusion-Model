@@ -3,7 +3,7 @@ Optimization of Cold Plates with Asymmetric Heat Sources via a Diffusion-Modelâ€
 
 # Overview
 
-![Overview of the Process](Overview_Digital Twin.png)
+![Overview of the Process](Overview_Digital%20Twin.png)
 
 
 
