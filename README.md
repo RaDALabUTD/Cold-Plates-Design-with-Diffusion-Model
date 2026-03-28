@@ -6,11 +6,6 @@ This study developed a diffusion model–driven digital twin framework that inte
 
 ![Overview of the Process](Overview_Digital%20Twin.png)
 
-## Multiphysics simulation and Topology Optimization Dataset
-
-
-
-
 
 
 
