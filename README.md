@@ -18,4 +18,4 @@ This study developed a diffusion model–driven digital twin framework that inte
 # 📄 Citation
 If you use this code, please cite:
 
-Wu, H., Coaty, J., Zong, Y., Azar, K., Minary, M., Tian, Zhi., & Xu, Y. Optimization of Cold Plates with Asymmetric Heat Sources via a Diffusion-Model–Driven Digital Twin 
+Wu, H., Coaty, J., Zong, Y., Azar, K., Minary-Jolandan, M., Tian, Z., & Xu, Y. (2026). Optimization of cold plates with asymmetric heat sources via a diffusion-model-driven digital twin. Structural and Multidisciplinary Optimization, 69(4), 85. 
